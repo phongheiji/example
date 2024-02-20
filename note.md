@@ -2,6 +2,7 @@
 
 Respository (Repo)
 Branch
+Conflict
 
 # Commands
 
