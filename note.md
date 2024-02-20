@@ -15,3 +15,5 @@ Branch
 - git checkout {branch name}
 - git branch
 - git checkout -b {branch name}
+- git merge {branch name}
+- git branch -d {branch name}
